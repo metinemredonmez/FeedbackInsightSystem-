@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+langchain
+pinecone-client
+python-dotenv
+crewai
+langgraph
+pydantic
+pandas
